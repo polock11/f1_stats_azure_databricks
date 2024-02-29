@@ -1,18 +1,18 @@
 # Formula One Statistics on Azure Databricks
 
+## System Architecture
+
+
+## Project Overview:
+
+This project focuses on learning and implementing Azure and Databricks services within a lakehouse architecture framework. The primary objective is to collect raw data from the Ergast Developer API and store it in Azure Data Lake Storage (ADLS). Subsequently, the data undergoes cleaning and processing in Databricks, utilizing PySpark and SQL, to facilitate analytics on Formula One historical data spanning from 1950 to 2021. To optimize efficiency, the project incorporates partial incremental data loading as well as full refresh mechanisms. Additionally, the entire pipeline is orchestrated in Azure Data Factory, which manages dynamic parameters and triggers to execute the pipeline on a regular schedule.
+
+## System Architecture
+
 ![System Diagram](screenshots/system_diagram.png "Detailed Overview of the System")
 
 ---
 
-Creating notebooks, dashboards, clusters, cluster pools, and jobs in Azure Databricks
-Ingesting and transforming data using PySpark in Azure Databricks
-Transforming and analyzing data using Spark SQL in Azure Databricks
-Implementing a Lakehouse architecture using Delta Lake
-Creating Azure Data Factory pipelines to execute Databricks notebooks and triggers to schedule pipelines, monitoring them
-
-
-
-## Introduction
 
 
 ## Project Overview:
