@@ -17,9 +17,6 @@ This project focuses on learning and implementing Azure and Databricks services 
 5. Implementing a Lakehouse architecture using Delta Lake.
 6. Creating Azure Data Factory pipelines to execute Databricks notebooks and triggers to schedule pipelines, monitoring them.
 
-## Project Folder Structure
-
-Below is the outline of the project's directory and file structure:
 
 ## Project Folder Structure
 
@@ -40,6 +37,7 @@ f1_stats_azure_databricks # Root folder of the project
 │ 
 └── screenshots # Screenshots of various implemented parts
 
+```
 
 ## Tools & Platforms:
 
