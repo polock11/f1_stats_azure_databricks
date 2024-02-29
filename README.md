@@ -1,8 +1,6 @@
-# f1_stats_azure_databricks
-
 # Formula One Statistics on Azure Databricks
 
-![Screenshot of the application](screenshots/7.png "Demo of WordSense Disambiguation using extended Lesk")
+![System Diagram](screenshots/system_diagram.png "Detailed Overview of the System")
 
 ---
 
@@ -14,13 +12,13 @@ Creating Azure Data Factory pipelines to execute Databricks notebooks and trigge
 
 
 
-### Introduction
+## Introduction
 
 
-### Project Overview:
+## Project Overview:
 
 
-### Learning Outcomes:
+## Learning Outcomes:
 
 1. Building real-world data projects using Azure Databricks and Spark Core.
 
@@ -56,7 +54,7 @@ f1_stats_azure_databricks # Root folder of the project
 ```
 
 
-### Tools & Platforms:
+## Tools & Platforms:
 
 - **Azure Databricks**: For accessing and transforming data from ADLS raw layer and writing it back to processed layer. For Creating notebook workflows and using databricks utilities.  
   text.
